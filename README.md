@@ -2,7 +2,7 @@
 
 Resume website with NextJS
 
-[**DEMO**](https://)
+[**LIVE**](https://resume-nextjs-sage.vercel.app)
 
 ## Compilation
 **on development**
